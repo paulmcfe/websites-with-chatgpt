@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pun Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #displayPun {
+            font-size: 24px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Pun Generator!</h1>
+    
+    <button id="generatePun">Generate Pun</button>
+    
+    <p id="displayPun"></p>
+
+    <script>
+        var puns = [
+            "Time flies like an arrow; fruit flies like a banana.",
+            "I used to be a baker because I kneaded dough.",
+            "I used to play piano by ear, but now I use my hands.",
+            "Why was the broom late? It over swept.",
+            "I’m reading a book about anti-gravity. It’s impossible to put down!",
+            "Why don't scientists trust atoms? Because they make up everything!",
+            "I told my wife she should embrace her mistakes... She gave me a hug.",
+            "Why couldn't the bicycle stand up by itself? It was two tired.",
+            "Did you hear about the mathematician who's afraid of negative numbers? He will stop at nothing to avoid them.",
+            "I would tell you a joke about pizza, but it's a little cheesy.",
+            "Why did the scarecrow win an award? Because he was outstanding in his field.",
+            "Why did the golfer bring two pairs of pants? In case he got a hole in one.",
+            "Why don't we write with broken pencils? Because it's pointless.",
+            "I'm friends with 25 letters of the alphabet. I don't know Y.",
+            "Did you hear about the actor who fell through the floorboards? He was just going through a stage.",
+            "Why did the tomato turn red? Because it saw the salad dressing.",
+            "Why don't skeletons fight each other? They don't have the guts.",
+            "Why couldn't the pony sing a lullaby? She was a little horse.",
+            "What do you call fake spaghetti? An impasta.",
+            "Why did the student eat his homework? Because his teacher said it was a piece of cake.",
+            "Why did the cookie go to the nurse? Because it felt crummy.",
+            "Why don't eggs tell each other jokes? They could crack up.",
+            "Why was the math book sad? Because it had too many problems.",
+            "Why did the computer go to the doctor? Because it had a virus.",
+            "Why did the picture go to jail? Because it was framed.",
+            "What do you call a bear with no teeth? A gummy bear.",
+            "Why did the bicycle fall over? Because it was too tired.",
+            "What do you call cheese that isn't yours? Nacho Cheese.",
+            "Why was the belt arrested? Because it was holding up a pair of pants.",
+            "What do you call a snowman with a six-pack? An abdominal snowman.",
+            "What do you call a fish wearing a crown? A king fish.",
+            "What did the big flower say to the small flower? Hi, bud!",
+            "Why did the music teacher need a ladder? To reach the high notes.",
+            "Why was the computer cold? It left its Windows open.",
+            "What do you call a cat that wears make up? Glamourpuss.",
+            "Why was the sand wet? Because the sea-weed.",
+            "Why don't some animals play cards? They're afraid of cheetahs.",
+            "Why was the computer at the bar? It had too many hard drives.",
+            "Why was the math book unhappy? It had too many problems.",
+            "Why don't skeletons watch horror movies? They don't have the guts.",
+            "What do you call a funny mountain? Hill-arious.",
+            "Why do fish live in salt water? Because pepper makes them sneeze!",
+            "What's a tornado's favorite game to play? Twister.",
+            "Why do we never tell secrets on a farm? Because the potatoes have eyes, the corn has ears, and the beans stalk.",
+            "Why was the computer cold at the office? It left its Windows open.",
+            "Why did the scarecrow win an award? Because he was outstanding in his field.",
+            "Why did the golfer wear two pairs of pants? In case he got a hole in one.",
+            "Why did the tomato turn red? Because it saw the salad dressing!",
+            "What do you call a snowman with a six-pack? An abdominal snowman.",
+            "Why don't eggs tell jokes? They could crack up."
+        ];
+
+        document.getElementById("generatePun").addEventListener("click", function() {
+            var randomPunIndex = Math.floor(Math.random() * puns.length);
+            document.getElementById("displayPun").innerText = puns[randomPunIndex];
+        });
+    </script>
+</body>
+</html>
