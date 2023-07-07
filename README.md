@@ -1,12 +1,12 @@
 # Creating Your Own Website with ChatGPT
 
-This repository contains the prompts, code, and example files used in the book *Creating Your Own Website with ChatGPT*.
+This repository contains the prompts, ChatGPT-generated web pages, and other code used in the book *Creating Your Own Website with ChatGPT*.
 
 You can access the book's ChatGPT prompts individually as follows:
 
 1. Click the chapter that contains the prompts you want.
 1. Click the `prompts.md` file.
-1. For the prompt you want to use, click the Copy button ![GitHub Copy button](https://github.com/paulmcfe/websites-with-chatgpt/blob/main/images/copy.png "Copy button") that appears in the top-right corner of the prompt box.
+1. For the prompt you want to use, click the Copy button ![GitHub Copy button](https://github.com/paulmcfe/websites-with-chatgpt/blob/main/images/copy.png "Copy button") that appears in the top-right corner of the code box.
 
 Alternatively, you can get your hands on everything by following these steps:
 
