@@ -1,5 +1,4 @@
 # Creating Your Own Website with ChatGPT
-## Example Code
 
 This repository contains the prompts, code, and example files used in the book *Creating Your Own Website with ChatGPT*.
 
