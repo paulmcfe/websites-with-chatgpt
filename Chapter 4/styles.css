@@ -1,0 +1,65 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+    color: black;
+    max-width: 800px;
+    margin: auto;
+}
+
+header {
+    background-color: darkorchid;
+    padding: 10px;
+}
+
+header img {
+    float: left;
+}
+
+header h1 {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 48px;
+    color: lightsteelblue;
+    text-align: right;
+}
+
+header p {
+    font-size: 24px;
+    color: lightsteelblue;
+    font-style: italic;
+    text-align: right;
+    clear: right;
+}
+
+main {
+    font-size: 20px;
+}
+
+h2 {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 30px;
+    color: darkorchid;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+section:nth-child(2) img {
+    float: right;
+}
+
+section:nth-child(2) p b,
+section:nth-child(3) p b {
+    color: mediumseagreen;
+}
+
+footer {
+    background-color: darkorchid;
+    color: lightsteelblue;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+footer a {
+    margin: 0 10px;
+    color: lightsteelblue;
+    text-decoration: none;
+}
