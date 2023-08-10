@@ -1,0 +1,97 @@
+/* Reset some default styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: wheat;
+    font-family: 'Lato', serif;
+    font-size: 24px;
+    line-height: 1.5;
+    color: #333;
+}
+
+header {
+    background: url('hero.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+
+    /* Linear gradient to darken the image */
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url('hero.jpg');
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+nav a {
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.title-container {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 72px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 48px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 30px;
+    color: saddlebrown;
+}
+
+main p {
+    margin-bottom: 20px;
+}
+
+main {
+    padding: 25px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+a {
+    color: saddlebrown;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px 0;
+    border-top: 1px solid black;
+}
