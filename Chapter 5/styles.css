@@ -1,0 +1,67 @@
+body {
+    background-color: mintcream;
+    color: slategray;
+    font-family: 'Merriweather', serif;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 150px;
+    float: left;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: 'Lato', sans-serif;
+}
+
+p.tagline {
+    font-size: 22px;
+    font-style: italic;
+}
+
+main {
+    margin-top: 48px;
+}
+
+.summary, .entry-title {
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+}
+
+.entry-date {
+    color: darkblue;
+    font-size: 18px;
+}
+
+footer {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+/* For the details and summary tags */
+details {
+    background: powderblue;
+    margin: 5px 0;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: .625em .625em .625em .625em;
+    width: 100%;
+}
+
+summary {
+    font-weight: bold;
+    margin: -.625em -.625em 0;
+    padding: .625em;
+}
+
+details[open] {
+    padding: .625em;
+    border: 1px solid #aaa;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: .625em;
+}
