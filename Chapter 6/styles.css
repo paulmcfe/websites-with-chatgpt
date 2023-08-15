@@ -1,0 +1,56 @@
+body {
+  background-color: oldlace;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+header h1 {
+  font-size: 64px;
+  line-height: 1;
+  color: midnightblue;
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 20px;
+}
+
+header p {
+  font-size: 30px;
+}
+
+nav {
+  border-top: 1px solid midnightblue;
+  border-bottom: 1px solid midnightblue;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+  padding: 10px 0;
+}
+nav a {
+    font-size: 24px;
+}
+
+a {
+  color: steelblue;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 48px;
+  color: midnightblue;
+  margin: 30px 0 0;
+  font-family: 'Playfair Display', serif;
+}
+
+h3, p, main p, li {
+  font-size: 24px;
+  color: darkslategray;
+  font-family: 'Lora', serif;
+  margin-top: 8px;
+}
+
+footer {
+  border-top: 1px solid midnightblue;
+  border-bottom: 1px solid midnightblue;
+  padding: 10px 0;
+  margin-top: 50px;
+}
