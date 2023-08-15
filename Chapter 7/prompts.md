@@ -134,7 +134,7 @@ Second, in a separate file write the CSS code for the following:
  * The main section has 25px padding all around and a maximum width of 800px.
  * The footer has a top border.
 ```
-Subtopic page prompt
+# Subtopic page prompt
 ```
 I want to build a website page. I don’t know how to code, so I need you to provide the code for me.
 
