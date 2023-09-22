@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Barnstormers!</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="barn.png" alt="Barnstormers logo">
+        <h1>Barnstormers!</h1>
+        <p>Building old-fashioned barns the new-fangled way</p>
+    </header>
+    <main>
+        <h2>Our Next Barn-Raising</h2>
+        <p>We’re looking for volunteers to help with our next 
+            barn-raising, which takes place Saturday August 23 
+            and Sunday August 24. If you want to help, please 
+            fill out and submit the form below.</p>
+        <form action="endpoint URL goes here" 
+              method="POST">
+            <p>
+                <label>Name: 
+                <input type="text" 
+                       name="name" 
+                       size="30" 
+                       placeholder="Your name">
+                </label>
+            </p>
+            <p>
+                <label>Email: 
+                <input type="email" 
+                       name="email" 
+                       size="30" 
+                       placeholder="Your email address">
+                </label>
+            </p>
+            <p>
+                <label>Skills: 
+                <textarea name="skills" 
+                          rows="3" 
+                          cols="30">
+                </textarea>
+                </label>
+            </p>
+            <p>
+                <label>
+                <input type="checkbox" 
+                       name="notify">
+                Get notified about future barn-raisings
+                </label>
+            </p>
+            <fieldset>
+                <legend>Day(s) you can attend</legend>
+                <label>
+                <input type="radio" 
+                       name="day" 
+                       value="Saturday" 
+                       checked> 
+                Saturday
+                </label>
+                <br>
+                <label>
+                <input type="radio" 
+                       name="day" 
+                       value="Sunday"> 
+                Sunday
+                </label>
+                <br>
+                <label>
+                <input type="radio" 
+                       name="day" 
+                       value="Both"> 
+                Both
+                </label>
+            </fieldset>
+            <p>
+                <label>Select your free gift: 
+                <select name="gift">
+                    <option value="">None</option>
+                    <option value="cap">Baseball cap</option>
+                    <option value="mug">Coffee mug</option>
+                    <option value="poster">Poster</option>
+                    <option value="shirt">T-shirt</option>
+                    <option value="bag">Tote bag</option>
+                </select></label>
+            </p>
+            <input type="hidden" name="_gotcha" style="display:none !important">
+            <p>
+                <button type="submit">Sign Me Up!</button>
+            </p>
+        </form>
+    </main>
+    <footer>© 2023 Barnstormers!</footer>
+</body>
+</html>

@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+    margin: 24px;
+    background-color: cornsilk;
+    color: saddlebrown;
+    font-family: 'Bitter', serif;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header img {
+    max-width: 150px;
+    float: left;
+}
+
+header h1 {
+    font-size: 48px;
+    text-align: right;
+    margin-bottom: 0;
+}
+
+header p {
+    font-size: 26px;
+    font-style: italic;
+    font-variant-caps: small-caps;
+    text-align: right;
+    margin-top: 0;
+}
+
+main {
+    margin-top: 75px;
+}
+
+main h2 {
+    font-size: 30px;
+}
+
+main p, form {
+    font-size: 20px;
+}
+
+form {
+    width: 400px;
+    margin-left: 32px;
+}
+
+form input, form textarea, form select, form button {
+    font-size: 20px;
+}
+
+form button {
+    color: saddlebrown;
+}
+
+footer {
+    padding: 5px;
+    margin-top: 50px;
+    border-top: solid saddlebrown;
+}
