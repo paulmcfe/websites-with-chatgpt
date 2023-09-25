@@ -1,0 +1,52 @@
+body {
+    background-color: azure;
+    margin: 24px;
+    line-height: 1.5;
+    font-family: 'Merriweather', serif;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    color: darkred;
+    padding: 10px;
+    text-align: center;
+}
+
+header img {
+    max-width: 250px;
+    float: left;
+}
+
+header h1 {
+    font-size: 48px;
+    margin-bottom: 0;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+header p {
+    font-size: 26px;
+    margin-top: 0;
+    font-style: italic;
+}
+
+main {
+    margin-top: 75px;
+    font-size: 20px;
+}
+
+main h2 {
+    font-size: 30px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+ol ol {
+    list-style-type: lower-roman;
+}
+
+footer {
+    padding: 5px;
+    margin-top: 50px;
+    border-top: 1px solid darkred;
+}
