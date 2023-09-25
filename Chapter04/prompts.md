@@ -14,7 +14,7 @@ Third, add a tagline that explains or expands on the title.
 ```
 # Typeface prompt
 ```
-You are a font aficionado that can generate awesome font combinations for a book club page. Use the information provided below to come up with suggestions that reflect the focus of the book club.
+You are a typography expert that can generate awesome font combinations for a book club page. Use the information provided below to come up with suggestions that reflect the focus of the book club.
 
 The book club is focused on [topic].
 
