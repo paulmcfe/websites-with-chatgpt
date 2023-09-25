@@ -89,25 +89,21 @@ Second, in a separate file write the CSS code for the following:
  * The footer has 10px top and bottom padding, a 50px top margin, and a top and bottom border colored midnightblue.
  * The page has a maximum width of 800px and is centered within the browser window.
 ```
-Subtopic page prompt
+# Subtopic page prompt
 ```
-I want to build a website page. I don’t know how to code, so I need you to provide the code for me.
+I want to build a page for an information website. I don’t know how to code, so I need you to provide the code for me.
 
 Write the HTML code for a web page that includes the following:
- * A header element that includes the title "The Rise and Rise of Bread" and the tagline "A story of dough and civilization".
- * The header should also include four links in the upper-right corner:
-   * The text "Home" that links to the file "index.html".
-   * The text "History" that links to the file "history.html".
-   * The text "Culture" that links to the file "culture.html".
-   * The text "Language" that links to the file "language.html".
+ * The page title is "[page title]".
+ * A header element that includes the title "[site title]" and the tagline "[site tagline]".
+ * After the header, a navigation element that includes the following links:
+[Copy your navigation links here]
  * A main element that includes the text between triple quotation marks.
  """
+[page content goes here]
  """
- * A footer element that includes the Copyright symbol, followed by the current year, followed by "Paul McFedries".
+ * A footer element that includes the Copyright symbol, followed by the current year, followed by "[site title]".
  * In the page head section, include the tag <meta charset="utf-8">.
  * In the page head section, include a reference to a stylesheeet file named "styles.css".
- * In the page head section, include a reference to the Google fonts Lato and Raleway.
+ * In the page head section, include a reference to the Google fonts X and Y.
  * Do not add any inline styles.
-
-
-
