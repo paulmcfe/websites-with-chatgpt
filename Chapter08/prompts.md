@@ -58,7 +58,8 @@ First, write the HTML code for a web page that includes the following:
     * A button element with the name "Sign Me Up!".
     * Use paragraphs to separate each form control, except for the radio buttons, which should be separated by line breaks.
   * A footer element that includes the Copyright symbol, followed by the current year, followed by "Barnstormers!".
- * In the page head section, include the tag <meta charset="utf-8">.
+ * In the page head section, include the tag * In the page head section, include the tag <meta charset="utf-8">.
+ * In the page head section, include the tag <meta name="viewport" content="width=device-width, initial-scale=1">.
 
 Second, in a separate file write the CSS code for the following:
  * The page has a 24px margin.

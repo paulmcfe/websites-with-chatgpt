@@ -110,6 +110,7 @@ First, write the HTML code for a web page that includes the following:
     -Cut into 24 pieces.
   * A footer element that includes the Copyright symbol, followed by the current year, followed by "The Super Baker".
  * In the page head section, include the tag <meta charset="utf-8">.
+ * In the page head section, include the tag <meta name="viewport" content="width=device-width, initial-scale=1">.
 
 Second, in a separate file write the CSS code for the following:
  * The page has background color azure, a 24px margin, and a line height of 1.5.
