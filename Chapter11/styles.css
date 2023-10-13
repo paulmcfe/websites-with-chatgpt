@@ -1,0 +1,70 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Poppins&display=swap');
+
+/* General settings */
+body {
+    background-color: mintcream;
+    margin: 0;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+/* Header */
+header {
+    background-color: coral;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+header h1 {
+    font-size: 64px;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 16px;
+}
+
+/* Main */
+main {
+    text-align: center;
+    margin: 24px;
+}
+
+main h1 {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Portfolio */
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    justify-content: center;
+}
+
+/* Card */
+.card {
+    min-width: 200px;
+    max-width: 350px;
+    box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.card img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.card h2, .card p {
+    padding: 0 16px;
+}
+
+/* Footer */
+footer {
+    background-color: coral;
+    padding: 16px;
+    text-align: center;
+}
