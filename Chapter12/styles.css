@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskerville:wght@400&family=Raleway:wght@400&display=swap');
+
+body {
+    font-size: 20px;
+    font-family: 'Baskerville', serif;
+    line-height: 1.5;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    background-color: lightblue;
+    padding: 24px;
+}
+
+header h1 {
+    font-size: 64px;
+    font-family: 'Raleway', sans-serif;
+}
+
+header p {
+    font-size: 32px;
+    font-family: 'Raleway', sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: midnightblue;
+    text-decoration: none;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 10px;
+}
+
+article h2, aside h3 {
+    margin-top: 10px;
+}
+
+aside {
+    border: 1px solid lightblue;
+}
+
+nav, article, aside, footer {
+    padding: 10px;
+}
+
+h2 {
+    font-size: 36px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+}
+
+footer {
+    border-top: 1px solid lightblue;
+    margin-top: 10px;
+}
+
+@media (max-width: 500px) {
+    header {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+
+    header img {
+        max-width: 150px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    header h1 {
+        font-size: 32px;
+    }
+
+    header p {
+        font-size: 24px;
+    }
+
+    main {
+        grid-template-columns: 1fr;
+}
