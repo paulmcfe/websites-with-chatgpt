@@ -22,6 +22,10 @@ Add a drop-shadow effect to the card where both the x and y offset are 8px, the 
 ```
 Round only the top-left and top-right corners of the card by 10px.
 ```
+# Flexbox
+```
+Make the portfolio container a Flexbox container. Enable the content to wrap and give each card a minimum width of 200px and a maximum width of 350px.
+```
 # Portfolio page prompt
 ```
 I want to build a web page for a photo gallery. I don’t know how to code, so I need you to provide the code for me.
