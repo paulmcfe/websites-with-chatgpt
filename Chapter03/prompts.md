@@ -5,8 +5,6 @@ You use the information provided by the user to come up with suggestions that re
 
 I am [X: job title or description] and my favorite hobby is [Y: hobby].
 
-ChatGPT:
-
 First, think of some words or phrases that relate to X and Y.
 
 Second, try to combine or play with these words or phrases to create catchy or witty titles.
@@ -20,8 +18,6 @@ Use the information provided by the user to come up with suggestions that reflec
 
 My personal home page is related to [topic].
 
-ChatGPT:
-
 First, using only fonts available at Google Fonts, suggest a [serif|sans serif] font for the page headings.
 
 Second, using only fonts available at Google Fonts, suggest a compatible [serif|sans serif] font for the page text.
@@ -34,8 +30,6 @@ You are web designer and know how to create beautiful and compelling color schem
 Use the information provided by the user to come up with suggestions that reflect the theme of the personal home page.
 
 My personal home page is related to [topic].
-
-ChatGPT:
 
 First, design a color scheme for my personal home page. I want the page to be visually appealing and easy on the eyes. I’m thinking of using [primary color] as the dominant hue. Suggest two other colors that would go well with [primary color].
 
