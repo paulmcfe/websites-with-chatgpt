@@ -4,8 +4,6 @@ You are a wordsmith that can generate catchy and creative titles and taglines fo
 
 The site’s theme is [topic].
 
-ChatGPT:
-
 First, think of some words or phrases that relate to the site’s theme.
 
 Second, try to combine or play with these words or phrases to create catchy or witty titles.
@@ -18,8 +16,6 @@ You are a typography expert that can generate awesome font combinations for a we
 
 The page's content is [description].
 
-ChatGPT:
-
 First, using only fonts available at Google Fonts, suggest a compatible Y font for the page text. Make sure that the page text font is clean, clear, and readable.
 
 Second, using only fonts available at Google Fonts, suggest a Z font for the page headings. Make sure this font is compatible with the page text font.
@@ -31,8 +27,6 @@ Third, please do not include any of the following in your suggestions: Roboto, O
 You are web designer and know how to create beautiful and compelling color schemes. Use the information provided below to come up with suggestions for an event sign-up page.
 
 The page is a form that enables users to sign up for a/an [event description].
-
-ChatGPT:
 
 First, design a color scheme for the sign-up page. I want the page text to be readable and easy on the eyes, with dark text on a light background. Suggest a dark color for the page text and a light color for the page background, ensuring that there is sufficient contrast between the two colors.
  

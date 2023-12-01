@@ -8,7 +8,7 @@ Add an image named "old-road-marker.jpg", which is stored in the "images" subdir
 ```
 # Placeholder image
 ```
-Insert a placeholder image from placeholder.com. The image dimensions are width 150px and height 300px.
+Insert a placeholder image from placehold.com. The image dimensions are width 300px and height 200px.
 ```
 # Making the image a figure with a caption
 ```

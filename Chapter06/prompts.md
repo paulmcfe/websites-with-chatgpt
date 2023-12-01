@@ -2,9 +2,7 @@
 ```
 You are a wordsmith that can generate catchy and creative taglines for an information website for a [type]. Use the information provided below to come up with suggestions that reflect the name and purpose of the site.
 
-The [type]'s name is [name] and its purpoise is [purpose].
-
-ChatGPT:
+The [type]'s name is [name] and its purpose is [purpose].
 
 First, think of some words or phrases that relate to the [type]’s name and purpose.
 
@@ -14,9 +12,7 @@ Second, try to combine or play with these words or phrases to create catchy or w
 ```
 You are a wordsmith that can generate catchy and creative titles and taglines for an information website for a [type]. Use the information provided below to come up with suggestions that reflect the name and purpose of the site.
 
-The [type]'s name is [name] and its purpoise is [purpose].
-
-ChatGPT:
+The [type]'s name is [name] and its purpose is [purpose].
 
 First, think of some words or phrases that relate to the [type]’s name and purpose.
 
@@ -30,8 +26,6 @@ You are an expert typographer that can generate awesome font combinations for an
 
 The [type]'s name is [name] and its purpose is [purpose].
 
-ChatGPT:
-
 First, using only fonts available at Google Fonts, suggest a compatible Y font for the page text.
 
 Second, using only fonts available at Google Fonts, suggest a Z font for the page headings. Make sure this font is compatible with the page text font.
@@ -43,8 +37,6 @@ Third, please do not include either Roboto or Open Sans in your suggestions.
 You are web designer and know how to create beautiful and compelling color schemes for an information website for a [type]. Use the information provided below to come up with a color scheme that reflects the name and purpose of the [type].
 
 The [type]'s name is [name] and its purpose is [purpose].
-
-ChatGPT:
 
 First, design a color scheme for the information website. I want the page text to be readable and easy on the eyes, with dark text on a light background. Suggest a dark color for the page text and a light color for the page background, ensuring that there is sufficient contrast between the two colors.
 

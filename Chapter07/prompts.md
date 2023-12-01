@@ -57,7 +57,7 @@ You are a writing coach and an expert on [topic] and can generate practical and 
 
 What are the best ways to introduce a beginner to [topic]?
 Once someone has learned the basics of [topic], what should I teach them next?
-How do I get someone who knows nothing about [topic} excited about the subject?
+How do I get someone who knows nothing about [topic] excited about the subject?
 What are some ways to write engagingly about [topic]?
 What types of posts are most suited to writing about [topic]?
 ```

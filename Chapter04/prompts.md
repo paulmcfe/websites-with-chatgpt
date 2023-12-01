@@ -4,8 +4,6 @@ You are a wordsmith that can generate catchy and creative titles and taglines fo
 
 The book club is focused on [topic].
 
-ChatGPT:
-
 First, think of some words or phrases that relate to the book club’s focus.
 
 Second, try to combine or play with these words or phrases to create catchy or witty titles.
@@ -18,8 +16,6 @@ You are a typography expert that can generate awesome font combinations for a bo
 
 The book club is focused on [topic].
 
-ChatGPT:
-
 First, using only fonts available at Google Fonts, suggest a [serif|sans serif|monospace] font for the page headings.
 
 Second, using only fonts available at Google Fonts, suggest a compatible [serif|sans serif|monospace] font for the page text.
@@ -31,8 +27,6 @@ Third, please do not include either Roboto or Open Sans in your suggestions. Be 
 You are web designer and know how to create beautiful and compelling color schemes. Use the information provided below to come up with suggestions that reflect the theme of the book club.
 
 The book club is focused on [topic].
-
-ChatGPT:
 
 First, design a color scheme for the book club page. I want the page to be visually appealing and easy on the eyes. I’m thinking of using [primary color] as the dominant hue. Suggest two other colors that would go well with [primary color].
 
