@@ -1,0 +1,802 @@
+[
+    {
+        "Course ID": "AI101",
+        "Title": "The Art of Chatting: Building Conversational AIs",
+        "Description": "Dive into the quirky world of chatbots and virtual companions. Learn how to design AIs that can outwit humans in a battle of banter, negotiate pizza toppings, and philosophically ponder the existence of the internet.",
+        "Instructor": "Prof. Kaitlyn Wong",
+        "Department": "Artificial Intelligence",
+        "Semester": 1
+    },
+    {
+        "Course ID": "AI102",
+        "Title": "Robot Overlords 101: An Introduction to AI Ethics",
+        "Description": "Explore the moral dilemmas of our future robot overlords. From deciding who gets the last piece of cake to governing a small island, this course tackles the hard ethical questions.",
+        "Instructor": "Prof. Thiago Silva",
+        "Department": "Artificial Intelligence",
+        "Semester": 2
+    },
+    {
+        "Course ID": "AI103",
+        "Title": "Dreaming in Code: AI for Creative Minds",
+        "Description": "Unleash the power of AI to create art, music, and literature. Learn how algorithms can be inspired by dreams and how to interpret the surreal artworks produced by silicon brains.",
+        "Instructor": "Prof. Anika Singh",
+        "Department": "Artificial Intelligence",
+        "Semester": 3
+    },
+    {
+        "Course ID": "AI201",
+        "Title": "Time-Traveling AIs: The Future of Historical Research",
+        "Description": "Venture into the past with AI as your guide. Discover how artificial intelligence can predict historical events, simulate ancient civilizations, and even solve historical mysteries.",
+        "Instructor": "Prof. Lerato Mbeki",
+        "Department": "Artificial Intelligence",
+        "Semester": 1
+    },
+    {
+        "Course ID": "AI202",
+        "Title": "Cooking with AIs: Culinary Arts of the Future",
+        "Description": "Spice up your cooking skills with AI assistants. Learn how to collaborate with culinary bots to create dishes that tickle taste buds across the human and robot population.",
+        "Instructor": "Prof. Kaitlyn Wong",
+        "Department": "Artificial Intelligence",
+        "Semester": 2
+    },
+    {
+        "Course ID": "AI203",
+        "Title": "AI in Wonderland: Programming the Imagination",
+        "Description": "Dive down the rabbit hole to explore AI systems that can imagine, dream, and create fantasy worlds. Learn how to code AIs that generate stories, games, and adventures.",
+        "Instructor": "Prof. Thiago Silva",
+        "Department": "Artificial Intelligence",
+        "Semester": 3
+    },
+    {
+        "Course ID": "AI301",
+        "Title": "The Emotional Circuit: Building Empathetic AIs",
+        "Description": "Can machines feel? This course examines the development of AI that can empathize, comfort, and connect on an emotional level with humans.",
+        "Instructor": "Prof. Anika Singh",
+        "Department": "Artificial Intelligence",
+        "Semester": 1
+    },
+    {
+        "Course ID": "AI302",
+        "Title": "Mind Melding: The Intersection of AI and Telepathy",
+        "Description": "Explore the futuristic realm where AI meets telepathy. Learn about the development of technologies that allow for direct communication between human brains and computers.",
+        "Instructor": "Prof. Lerato Mbeki",
+        "Department": "Artificial Intelligence",
+        "Semester": 2
+    },
+    {
+        "Course ID": "AI401",
+        "Title": "The AI Zoo: Designing Digital Ecosystems",
+        "Description": "Create virtual habitats where digital creatures evolve and interact. This course covers the principles of artificial life, digital ecosystems, and how to code your own cybernetic organisms.",
+        "Instructor": "Prof. Kaitlyn Wong",
+        "Department": "Artificial Intelligence",
+        "Semester": 3
+    },
+    {
+        "Course ID": "AI402",
+        "Title": "Ghost in the Machine: AI and Paranormal Research",
+        "Description": "Investigate the uncanny valley with AI. Learn how artificial intelligence is used to explore paranormal activities, communicate with spirits, and debunk or prove age-old myths.",
+        "Instructor": "Prof. Sven Eriksson",
+        "Department": "Artificial Intelligence",
+        "Semester": 1
+    },
+    {
+        "Course ID": "AR101",
+        "Title": "Magic Lenses: An Introduction to Augmented Reality",
+        "Description": "Peek into the looking glass of AR. Learn how to blend digital fantasies with the real world, creating magical experiences that overlay information and imagination on our everyday views.",
+        "Instructor": "Prof. Amina Patel",
+        "Department": "Augmented Reality",
+        "Semester": 1
+    },
+    {
+        "Course ID": "AR102",
+        "Title": "Virtual Graffiti: Painting the Town with AR",
+        "Description": "Unleash your inner artist on a city-scale canvas. This course teaches the art of virtual graffiti, where augmented reality gives your creations life beyond the wall.",
+        "Instructor": "Prof. Yuto Nakamura",
+        "Department": "Augmented Reality",
+        "Semester": 2
+    },
+    {
+        "Course ID": "AR103",
+        "Title": "AR for Wizards and Warriors: Creating Fantasy Worlds",
+        "Description": "Craft enchanting realms where dragons fly overhead and treasure chests hide in alleyways. Learn to create AR experiences that turn the mundane into the magical.",
+        "Instructor": "Prof. Elena Kuznetsova",
+        "Department": "Augmented Reality",
+        "Semester": 3
+    },
+    {
+        "Course ID": "AR201",
+        "Title": "Fashion Forward: The Future of Wearables and AR",
+        "Description": "Project your inner style into the world with AR wearables. Design digital accessories and apparel that change with your mood or environment, revolutionizing personal expression.",
+        "Instructor": "Prof. Elena Kuznetsova",
+        "Department": "Augmented Reality",
+        "Semester": 1
+    },
+    {
+        "Course ID": "AR202",
+        "Title": "Ghost Hunters: AR for Exploring the Paranormal",
+        "Description": "Equip yourself with AR to seek spirits and specters. This course guides you through creating apps that overlay the unseen, blending lore with location for thrilling ghost tours.",
+        "Instructor": "Prof. Amina Patel",
+        "Department": "Augmented Reality",
+        "Semester": 2
+    },
+    {
+        "Course ID": "AR203",
+        "Title": "Educational Illusions: Learning Enhanced with AR",
+        "Description": "Transform classrooms into interactive learning environments. Discover how AR can bring history to life, visualize complex science, and make math a tangible exploration.",
+        "Instructor": "Prof. Carlos Rivera",
+        "Department": "Augmented Reality",
+        "Semester": 3
+    },
+    {
+        "Course ID": "AR301",
+        "Title": "Augmented Athletics: Sports Training with AR",
+        "Description": "Elevate your game with virtual coaches and performance overlays. This course explores how AR can enhance training, strategy, and the sporting experience.",
+        "Instructor": "Prof. Carlos Rivera",
+        "Department": "Augmented Reality",
+        "Semester": 1
+    },
+    {
+        "Course ID": "AR302",
+        "Title": "The ARt of Storytelling: Immersive Narratives",
+        "Description": "Dive into stories that surround you. Learn to craft narratives where the audience steps into the plot, interacting with characters and environments augmented by AR.",
+        "Instructor": "Prof. Elena Kuznetsova",
+        "Department": "Augmented Reality",
+        "Semester": 2
+    },
+    {
+        "Course ID": "AR401",
+        "Title": "Spatial Computing: Designing Interfaces for AR",
+        "Description": "Rethink how we interact with digital information. This course covers the creation of intuitive, spatial interfaces that blend seamlessly with our physical world.",
+        "Instructor": "Prof. Amina Patel",
+        "Department": "Augmented Reality",
+        "Semester": 3
+    },
+    {
+        "Course ID": "AR402",
+        "Title": "The Architect's Guide to AR: Building the Invisible",
+        "Description": "Construct digital structures that coexist with reality. From virtual renovations to interactive installations, learn how AR can transform our physical spaces without altering a brick.",
+        "Instructor": "Prof. Fatima Al-Farsi",
+        "Department": "Augmented Reality",
+        "Semester": 1
+    },
+    {
+        "Course ID": "AD101",
+        "Title": "Autopilots and Artifacts: The Basics of Autonomous Devices",
+        "Description": "Embark on a journey with self-piloting gadgets. Learn the A to Z of autonomous devices, from drones that deliver your pizza to robots that walk your dog.",
+        "Instructor": "Prof. Thiago Silva",
+        "Department": "Autonomous Devices",
+        "Semester": 1
+    },
+    {
+        "Course ID": "AD102",
+        "Title": "Robots with Personality: AI and Machine Learning for Autonomous Devices",
+        "Description": "Dive into the digital psyche of robots. Explore how AI and machine learning breathe life into metal, giving them personalities and the ability to make decisions.",
+        "Instructor": "Prof. Kaitlyn Wong",
+        "Department": "Autonomous Devices",
+        "Semester": 2
+    },
+    {
+        "Course ID": "AD103",
+        "Title": "Drones and the Art of Aerial Acrobatics",
+        "Description": "Soar through the skies with advanced drone piloting. Master the art of aerial acrobatics and learn how drones can be used for everything from film-making to farming.",
+        "Instructor": "Prof. Anika Singh",
+        "Department": "Autonomous Devices",
+        "Semester": 3
+    },
+    {
+        "Course ID": "AD201",
+        "Title": "Underwater Explorers: Autonomous Submarines and Oceanography",
+        "Description": "Plunge into the deep blue with autonomous submarines. Discover the mysteries of the ocean and how unmanned vessels contribute to marine science and treasure hunting.",
+        "Instructor": "Prof. Sven Eriksson",
+        "Department": "Autonomous Devices",
+        "Semester": 1
+    },
+    {
+        "Course ID": "AD202",
+        "Title": "Self-Driving Cars: The Road to Autonomy",
+        "Description": "Buckle up for a ride into the future of transportation. Learn about the technology behind self-driving cars, from sensors and algorithms to ethics and regulations.",
+        "Instructor": "Prof. Thiago Silva",
+        "Department": "Autonomous Devices",
+        "Semester": 2
+    },
+    {
+        "Course ID": "AD203",
+        "Title": "The Robotics Zoo: Creating Autonomous Creatures",
+        "Description": "Enter the robotics zoo, where mechanical animals roam. Explore the design and function of robots inspired by the animal kingdom, from spy insects to rescue dogs.",
+        "Instructor": "Prof. Lerato Mbeki",
+        "Department": "Autonomous Devices",
+        "Semester": 3
+    },
+    {
+        "Course ID": "AD301",
+        "Title": "Smart Homes and Cities: The Future of Living Spaces",
+        "Description": "Imagine living in a world where your home knows you. Discover how autonomous technologies are shaping the smart homes and cities of the future, making life more convenient and efficient.",
+        "Instructor": "Prof. Anika Singh",
+        "Department": "Autonomous Devices",
+        "Semester": 1
+    },
+    {
+        "Course ID": "AD302",
+        "Title": "Agricultural Automatons: Farming with Robots",
+        "Description": "Sow, grow, and harvest with robots. Learn how autonomous devices are revolutionizing agriculture, from planting seeds to picking fruit, making farming more sustainable.",
+        "Instructor": "Prof. Anika Singh",
+        "Department": "Autonomous Devices",
+        "Semester": 2
+    },
+    {
+        "Course ID": "AD401",
+        "Title": "Medical Miracles: Autonomous Devices in Healthcare",
+        "Description": "Step into the operating room of the future. Explore how autonomous devices are transforming healthcare, from performing surgery to caring for the elderly.",
+        "Instructor": "Prof. Sven Eriksson",
+        "Department": "Autonomous Devices",
+        "Semester": 3
+    },
+    {
+        "Course ID": "AD402",
+        "Title": "Space Rovers and Beyond: Exploring the Cosmos with Autonomous Devices",
+        "Description": "Blast off on a cosmic adventure with space rovers. Learn how autonomous devices are used to explore the furthest reaches of space, from the Moon to Mars and beyond.",
+        "Instructor": "Prof. Thiago Silva",
+        "Department": "Autonomous Devices",
+        "Semester": 1
+    },
+    {
+        "Course ID": "BIO101",
+        "Title": "Genetic Engineering for Dummies: Splicing Genes Like a Pro",
+        "Description": "Dive into the world of genetic engineering, where DNA is your playground. Learn to splice genes, design glowing pets, and maybe even brew your own superhero.",
+        "Instructor": "Prof. Jamal Freeman",
+        "Department": "Biotechnology",
+        "Semester": 1
+    },
+    {
+        "Course ID": "BIO102",
+        "Title": "Microbial Graffiti: Painting the World with Bacteria",
+        "Description": "Discover the art of bacterial cultures. Create living masterpieces with colorful microbes and explore how tiny organisms can clean pollutants or brew novel biofuels.",
+        "Instructor": "Prof. Olufemi Adebayo",
+        "Department": "Biotechnology",
+        "Semester": 2
+    },
+    {
+        "Course ID": "BIO103",
+        "Title": "Regrow Your Limbs: An Intro to Human Regeneration",
+        "Description": "Explore the cutting-edge techniques in tissue engineering and regenerative medicine. Learn how science is making it possible to regrow limbs and organs, just like a starfish.",
+        "Instructor": "Prof. Sarah Johnson",
+        "Department": "Biotechnology",
+        "Semester": 3
+    },
+    {
+        "Course ID": "BIO201",
+        "Title": "Zombie Apocalypse: Controlling Minds with Parasites",
+        "Description": "Venture into the world of neuro-parasitology. Study how parasites control the behavior of their hosts and how this could lead to breakthroughs in neuroscience or start a zombie apocalypse.",
+        "Instructor": "Prof. Olufemi Adebayo",
+        "Department": "Biotechnology",
+        "Semester": 1
+    },
+    {
+        "Course ID": "BIO202",
+        "Title": "Designer Babies and Beyond: The Future of Human Evolution",
+        "Description": "Discuss the ethical, social, and scientific aspects of designing future generations. Learn about CRISPR, gene editing, and how biotechnology is shaping the evolution of humanity.",
+        "Instructor": "Prof. Tanya Horowitz",
+        "Department": "Biotechnology",
+        "Semester": 2
+    },
+    {
+        "Course ID": "BIO203",
+        "Title": "Biotech on Mars: Farming the Red Planet",
+        "Description": "Plan and design biotech systems for sustaining life on Mars. Discover how genetically modified plants and microbes could turn alien deserts into lush gardens.",
+        "Instructor": "Prof. Hye-Jin Park",
+        "Department": "Biotechnology",
+        "Semester": 3
+    },
+    {
+        "Course ID": "BIO301",
+        "Title": "Superfoods of Tomorrow: Engineering Nutritional Miracles",
+        "Description": "Invent the next kale. Use biotechnology to enhance flavors, boost nutritional content, and create foods that could solve global hunger or at least make kale taste better.",
+        "Instructor": "Prof. Sarah Johnson",
+        "Department": "Biotechnology",
+        "Semester": 1
+    },
+    {
+        "Course ID": "BIO302",
+        "Title": "Plastic-Eating Monsters: Bioremediation Heroes",
+        "Description": "Unleash the power of microorganisms to combat pollution. Learn how engineered bacteria can eat away plastic waste, detoxify polluted sites, and save the planet.",
+        "Instructor": "Prof. Hye-Jin Park",
+        "Department": "Biotechnology",
+        "Semester": 2
+    },
+    {
+        "Course ID": "BIO401",
+        "Title": "The Fountain of Youth: Secrets of Anti-Aging",
+        "Description": "Delve into the science of aging and longevity. Study the latest in biotech research on how to slow aging, reverse damage, and maybe live forever (or at least die trying).",
+        "Instructor": "Prof. Jamal Freeman",
+        "Department": "Biotechnology",
+        "Semester": 3
+    },
+    {
+        "Course ID": "BIO402",
+        "Title": "Bioluminescent Pets: Lighting Up Your Life with Genetic Art",
+        "Description": "Create your own glowing companions. Learn the science behind bioluminescence and how genetic engineering can add a bit of sparkle to your pets and everyday life.",
+        "Instructor": "Prof. Li Wei Zhang",
+        "Department": "Biotechnology",
+        "Semester": 1
+    },
+    {
+        "Course ID": "BCI101",
+        "Title": "Telepathy Tech: Introduction to Brain-Computer Interfaces",
+        "Description": "Embark on a journey into the mind. Learn how to meld thoughts with technology, turning sci-fi dreams of telepathy into reality with the latest in BCI tech.",
+        "Instructor": "Prof. Sarah Johnson",
+        "Department": "Brain-Computer Interfaces",
+        "Semester": 1
+    },
+    {
+        "Course ID": "BCI102",
+        "Title": "Neural Networks and Neural Knots: Untangling the Brain's Secrets",
+        "Description": "Dive deep into the brain's labyrinth. Explore how neural networks in the brain and computer intertwine, enhancing our understanding and connectivity to machines.",
+        "Instructor": "Prof. Olufemi Adebayo",
+        "Department": "Brain-Computer Interfaces",
+        "Semester": 2
+    },
+    {
+        "Course ID": "BCI103",
+        "Title": "Mind Games: Gaming Interfaces of the Future",
+        "Description": "Level up your brain's gaming skills. Learn to design and play video games using nothing but brain waves, where your thoughts control the game world.",
+        "Instructor": "Prof. Tanya Horowitz",
+        "Department": "Brain-Computer Interfaces",
+        "Semester": 3
+    },
+    {
+        "Course ID": "BCI201",
+        "Title": "Conscious Computing: AI Meets the Human Mind",
+        "Description": "Explore the frontier where artificial intelligence and human consciousness converge. Delve into the ethics, possibilities, and challenges of blending minds with machines.",
+        "Instructor": "Prof. Jamal Freeman",
+        "Department": "Brain-Computer Interfaces",
+        "Semester": 1
+    },
+    {
+        "Course ID": "BCI202",
+        "Title": "Mind Over Matter: Controlling the Physical with Thought",
+        "Description": "Discover how to move objects, type messages, and navigate digital spaces using the power of thought alone. Unlock the potential of thought-powered technology.",
+        "Instructor": "Prof. Sarah Johnson",
+        "Department": "Brain-Computer Interfaces",
+        "Semester": 2
+    },
+    {
+        "Course ID": "BCI203",
+        "Title": "Dream Streaming: Broadcasting the Unconscious",
+        "Description": "Venture into the world of dreams. Learn how brain-computer interfaces can capture, interpret, and even share the vivid landscapes of our unconscious minds.",
+        "Instructor": "Prof. Hye-Jin Park",
+        "Department": "Brain-Computer Interfaces",
+        "Semester": 3
+    },
+    {
+        "Course ID": "BCI301",
+        "Title": "Neuroethics: The Morality of Mind Reading",
+        "Description": "Tackle the ethical dilemmas of BCI technologies. From privacy to consent, discuss the moral implications of reading thoughts and accessing the inner sanctum of the human mind.",
+        "Instructor": "Prof. Tanya Horowitz",
+        "Department": "Brain-Computer Interfaces",
+        "Semester": 1
+    },
+    {
+        "Course ID": "BCI302",
+        "Title": "Silent Speech: Communicating Without Words",
+        "Description": "Master the art of silent communication. Learn how BCIs can translate thoughts into text or speech, opening new pathways for expression without uttering a sound.",
+        "Instructor": "Prof. Jamal Freeman",
+        "Department": "Brain-Computer Interfaces",
+        "Semester": 2
+    },
+    {
+        "Course ID": "BCI401",
+        "Title": "Cyborg Skills: Enhancing Human Abilities with BCI",
+        "Description": "Step into the future of human enhancement. Explore how BCIs can augment our physical and cognitive abilities, from enhanced memory to superhuman strength.",
+        "Instructor": "Prof. Olufemi Adebayo",
+        "Department": "Brain-Computer Interfaces",
+        "Semester": 3
+    },
+    {
+        "Course ID": "BCI402",
+        "Title": "The BCI Revolution: Transforming Society with Brainpower",
+        "Description": "Examine the societal impacts of BCI technology. From revolutionizing communication to reshaping healthcare, explore how integrating brainpower with computers will transform our world.",
+        "Instructor": "Prof. Hye-Jin Park",
+        "Department": "Brain-Computer Interfaces",
+        "Semester": 1
+    },
+    {
+        "Course ID": "CRYPTO101",
+        "Title": "Mining Magic: The Alchemy of Cryptocurrency",
+        "Description": "Delve into the mystical world of crypto mining. Learn how digital miners turn electricity into digital gold, mastering the secrets of blockchain alchemy.",
+        "Instructor": "Prof. James O'Reilly",
+        "Department": "Cryptocurrency",
+        "Semester": 1
+    },
+    {
+        "Course ID": "CRYPTO102",
+        "Title": "Blockchain Battles: The History of Crypto Wars",
+        "Description": "Explore the epic saga of blockchain battles, from the early days of Bitcoin to the latest DeFi skirmishes. Discover the heroes and villains in the quest for decentralization.",
+        "Instructor": "Prof. Li Wei Zhang",
+        "Department": "Cryptocurrency",
+        "Semester": 2
+    },
+    {
+        "Course ID": "CRYPTO103",
+        "Title": "Cryptic Currencies: Decoding Crypto Mysteries",
+        "Description": "Unravel the enigmas of cryptocurrencies. This course offers a thrilling adventure into the symbols, secrets, and puzzles embedded within the world of crypto.",
+        "Instructor": "Prof. Maya Krishnamurthy",
+        "Department": "Cryptocurrency",
+        "Semester": 3
+    },
+    {
+        "Course ID": "CRYPTO201",
+        "Title": "Tokenomics 101: The Economy of Tokens",
+        "Description": "Dive into the vibrant economy of tokens, understanding how value is created, exchanged, and manipulated in the crypto universe.",
+        "Instructor": "Prof. Chidi Abacha",
+        "Department": "Cryptocurrency",
+        "Semester": 1
+    },
+    {
+        "Course ID": "CRYPTO202",
+        "Title": "Smart Contracts for Wizards: Spell-Casting on the Blockchain",
+        "Description": "Master the magic of smart contracts. Learn how to cast spells (write code) that execute automatically, weaving the fabric of decentralized applications.",
+        "Instructor": "Prof. James O'Reilly",
+        "Department": "Cryptocurrency",
+        "Semester": 2
+    },
+    {
+        "Course ID": "CRYPTO203",
+        "Title": "Cryptozoology: The Mythical Beasts of the Blockchain",
+        "Description": "Venture into the wilderness of the blockchain to discover mythical digital beasts. Learn about Bitcoin whales, Ethereum unicorns, and the elusive Satoshi Nakamoto.",
+        "Instructor": "Prof. Chidi Abacha",
+        "Department": "Cryptocurrency",
+        "Semester": 3
+    },
+    {
+        "Course ID": "CRYPTO301",
+        "Title": "Digital Fort Knox: The Art of Crypto Security",
+        "Description": "Fortify your digital vaults against hackers and heists. Learn the art and science of crypto security, from private keys to quantum-resistant algorithms.",
+        "Instructor": "Prof. Li Wei Zhang",
+        "Department": "Cryptocurrency",
+        "Semester": 1
+    },
+    {
+        "Course ID": "CRYPTO302",
+        "Title": "The Philosophy of Decentralization: Beyond the Blockchain",
+        "Description": "Ponder the philosophical implications of a decentralized world. Explore concepts of trust, authority, and freedom in the age of blockchain.",
+        "Instructor": "Prof. Dmitri Ivanov",
+        "Department": "Cryptocurrency",
+        "Semester": 2
+    },
+    {
+        "Course ID": "CRYPTO401",
+        "Title": "NFTs and Digital Artistry: Creating Value in the Virtual",
+        "Description": "Dive into the world of NFTs, where art meets blockchain. Learn how to create, buy, and sell digital masterpieces that redefine the concept of ownership and value.",
+        "Instructor": "Prof. James O'Reilly",
+        "Department": "Cryptocurrency",
+        "Semester": 3
+    },
+    {
+        "Course ID": "CRYPTO402",
+        "Title": "Futuristic Finance: The Next Generation of Crypto",
+        "Description": "Glimpse into the future of finance with cryptocurrencies. Explore emerging technologies, potential regulations, and how crypto will shape the economic landscape of tomorrow.",
+        "Instructor": "Prof. Maya Krishnamurthy",
+        "Department": "Cryptocurrency",
+        "Semester": 1
+    },
+    {
+        "Course ID": "CYB101",
+        "Title": "Hacking 101: The Art of Cyber Invasion",
+        "Description": "Delve into the thrilling world of ethical hacking. Learn to think like a hacker to protect the digital realm, from fortifying firewalls to crafting codes that safeguard secrets.",
+        "Instructor": "Prof. James O'Reilly",
+        "Department": "Cybersecurity",
+        "Semester": 1
+    },
+    {
+        "Course ID": "CYB102",
+        "Title": "Digital Espionage: Secrets of Cyber Spies",
+        "Description": "Uncover the shadowy world of cyber espionage. Decode the tactics of digital spies and learn how to protect sensitive information from prying eyes.",
+        "Instructor": "Prof. Chidi Abacha",
+        "Department": "Cybersecurity",
+        "Semester": 2
+    },
+    {
+        "Course ID": "CYB103",
+        "Title": "Cryptomania: The Enigma of Encryption",
+        "Description": "Embark on a cryptic quest through the history and future of encryption. From ancient ciphers to quantum cryptography, unlock the secrets of secure communication.",
+        "Instructor": "Prof. James O'Reilly",
+        "Department": "Cybersecurity",
+        "Semester": 3
+    },
+    {
+        "Course ID": "CYB201",
+        "Title": "Zombie Botnets and How to Slay Them",
+        "Description": "Dive into the undead world of botnets. Learn strategies to combat digital zombies and safeguard the internet from being overrun by automated armies.",
+        "Instructor": "Prof. Dmitri Ivanov",
+        "Department": "Cybersecurity",
+        "Semester": 1
+    },
+    {
+        "Course ID": "CYB202",
+        "Title": "AI Defenders: The Rise of Machine Guardians",
+        "Description": "Discover how artificial intelligence is revolutionizing cybersecurity. Train AI to detect threats, predict attacks, and defend the digital frontier.",
+        "Instructor": "Prof. Maya Krishnamurthy",
+        "Department": "Cybersecurity",
+        "Semester": 2
+    },
+    {
+        "Course ID": "CYB203",
+        "Title": "Phishing for Phools: Recognizing Digital Deceit",
+        "Description": "Navigate the murky waters of phishing scams. Learn to identify and outsmart deceptive tactics designed to steal information and compromise security.",
+        "Instructor": "Prof. Li Wei Zhang",
+        "Department": "Cybersecurity",
+        "Semester": 3
+    },
+    {
+        "Course ID": "CYB301",
+        "Title": "Blockchain Battles: Securing Digital Transactions",
+        "Description": "Explore the fortress of blockchain technology. Understand how it secures transactions, thwarts tampering, and could revolutionize cybersecurity.",
+        "Instructor": "Prof. Dmitri Ivanov",
+        "Department": "Cybersecurity",
+        "Semester": 1
+    },
+    {
+        "Course ID": "CYB302",
+        "Title": "The Dark Web Diaries: Exploring the Internet's Underbelly",
+        "Description": "Journey into the depths of the dark web. Learn about its hidden marketplaces, uncover its secrets, and discover how law enforcement tracks illegal activities.",
+        "Instructor": "Prof. James O'Reilly",
+        "Department": "Cybersecurity",
+        "Semester": 2
+    },
+    {
+        "Course ID": "CYB401",
+        "Title": "Quantum Shield: Preparing for Post-Quantum Cybersecurity",
+        "Description": "Peer into the future where quantum computing challenges current encryption. Prepare for the quantum era with cutting-edge cybersecurity strategies.",
+        "Instructor": "Prof. Maya Krishnamurthy",
+        "Department": "Cybersecurity",
+        "Semester": 3
+    },
+    {
+        "Course ID": "CYB402",
+        "Title": "Cyber Hygiene: Keeping Your Digital Life Clean",
+        "Description": "Master the daily routines of cyber hygiene to protect personal and professional data. Learn practices that keep digital diseases at bay and maintain a healthy online presence.",
+        "Instructor": "Prof. Maya Krishnamurthy",
+        "Department": "Cybersecurity",
+        "Semester": 1
+    },
+    {
+        "Course ID": "META101",
+        "Title": "Building Blocks of the Metaverse: Virtual World Construction",
+        "Description": "Step into the role of a digital architect and learn how to construct immersive worlds where the only limit is your imagination. From floating islands to digital dystopias, craft the next frontier.",
+        "Instructor": "Prof. Amina Patel",
+        "Department": "Metaverse",
+        "Semester": 1
+    },
+    {
+        "Course ID": "META102",
+        "Title": "Avatar Identity and Digital Fashion: Crafting Your Virtual Self",
+        "Description": "Dive into the digital dressing room and explore how avatars reflect our identities in the metaverse. Learn to design fashion that shines in pixels and polygons.",
+        "Instructor": "Prof. Carlos Rivera",
+        "Department": "Metaverse",
+        "Semester": 2
+    },
+    {
+        "Course ID": "META103",
+        "Title": "The Economy of the Metaverse: Crypto, NFTs, and Beyond",
+        "Description": "Unlock the secrets of virtual wealth. Explore how cryptocurrencies and NFTs fuel the economy of the metaverse, and how to invest in virtual real estate and artifacts.",
+        "Instructor": "Prof. Amina Patel",
+        "Department": "Metaverse",
+        "Semester": 3
+    },
+    {
+        "Course ID": "META201",
+        "Title": "Metaverse Ethics: Virtual Rights and Digital Citizenship",
+        "Description": "Navigate the moral mazes of virtual worlds. Discuss the rights of avatars, the ethics of AI interactions, and how to be a responsible digital citizen in the metaverse.",
+        "Instructor": "Prof. Elena Kuznetsova",
+        "Department": "Metaverse",
+        "Semester": 1
+    },
+    {
+        "Course ID": "META202",
+        "Title": "Virtual Reality and Beyond: Engineering Immersive Experiences",
+        "Description": "Leap beyond reality and engineer immersive experiences that blur the lines between the virtual and the real. Discover the tools and techniques for creating sensory-rich virtual environments.",
+        "Instructor": "Prof. Fatima Al-Farsi",
+        "Department": "Metaverse",
+        "Semester": 2
+    },
+    {
+        "Course ID": "META203",
+        "Title": "AI Companions in the Metaverse: Beyond Digital Pets",
+        "Description": "Explore the creation of AI companions, from digital pets to virtual mentors. Learn how these entities can enhance experiences, provide support, and evolve within the metaverse.",
+        "Instructor": "Prof. Elena Kuznetsova",
+        "Department": "Metaverse",
+        "Semester": 3
+    },
+    {
+        "Course ID": "META301",
+        "Title": "The Art of Virtual Storytelling: Epic Tales in the Metaverse",
+        "Description": "Master the craft of virtual storytelling. Create narratives that span worlds, design quests that challenge heroes, and weave tales that enthrall participants across the metaverse.",
+        "Instructor": "Prof. Yuto Nakamura",
+        "Department": "Metaverse",
+        "Semester": 1
+    },
+    {
+        "Course ID": "META302",
+        "Title": "Metaverse Event Planning: Hosting Virtual Galas",
+        "Description": "Become the ultimate virtual event planner. From concerts to conferences, learn how to organize and host memorable events that draw crowds across digital universes.",
+        "Instructor": "Prof. Amina Patel",
+        "Department": "Metaverse",
+        "Semester": 2
+    },
+    {
+        "Course ID": "META401",
+        "Title": "Cybersecurity in the Metaverse: Safeguarding Virtual Existence",
+        "Description": "Protect the digital realm. Dive into the challenges of cybersecurity within the metaverse, learning to shield virtual worlds and their inhabitants from digital threats.",
+        "Instructor": "Prof. Yuto Nakamura",
+        "Department": "Metaverse",
+        "Semester": 3
+    },
+    {
+        "Course ID": "META402",
+        "Title": "Future Frontiers: The Evolution of Metaverses",
+        "Description": "Peer into the crystal ball of virtual worlds. Explore emerging technologies and speculative futures where metaverses reshape social, economic, and cultural landscapes.",
+        "Instructor": "Prof. Carlos Rivera",
+        "Department": "Metaverse",
+        "Semester": 1
+    },
+    {
+        "Course ID": "NANO101",
+        "Title": "Nano 101: Shrinking Down to the Basics",
+        "Description": "Embark on a microscopic journey into the world of nanotechnology. Learn how manipulating matter at the atomic level can lead to giant leaps for mankind.",
+        "Instructor": "Prof. Lakshmi Desai",
+        "Department": "Nanotechnology",
+        "Semester": 1
+    },
+    {
+        "Course ID": "NANO102",
+        "Title": "Invisible Robots: Engineering at an Atomic Scale",
+        "Description": "Dive into the realm of nanobots and molecular machines. Discover how to engineer tiny robots that could roam your bloodstream, fixing cells and fighting diseases.",
+        "Instructor": "Prof. Martin Schultz",
+        "Department": "Nanotechnology",
+        "Semester": 2
+    },
+    {
+        "Course ID": "NANO103",
+        "Title": "The Magic Potion Lab: Nanotech in Pharmaceuticals",
+        "Description": "Mix up the future of medicine in the nano potion lab. Learn how nanoparticles can deliver drugs with precision, turning once fatal diseases into mere nuisances.",
+        "Instructor": "Prof. Giovanni Bianchi",
+        "Department": "Nanotechnology",
+        "Semester": 3
+    },
+    {
+        "Course ID": "NANO201",
+        "Title": "Nanomaterials and You: Building the Future",
+        "Description": "Step into the nano construction zone. Explore how nanomaterials like graphene and carbon nanotubes are creating lighter, stronger, and smarter materials for everything from clothes to spaceships.",
+        "Instructor": "Prof. Martin Schultz",
+        "Department": "Nanotechnology",
+        "Semester": 1
+    },
+    {
+        "Course ID": "NANO202",
+        "Title": "Nano-Ecology: Saving the Planet One Atom at a Time",
+        "Description": "Uncover how nanotechnology can offer green solutions to global problems. From cleaning pollutants to generating renewable energy, see how small solutions can have a big impact.",
+        "Instructor": "Prof. Nia Davies",
+        "Department": "Nanotechnology",
+        "Semester": 2
+    },
+    {
+        "Course ID": "NANO203",
+        "Title": "Wearable Wonders: The Future of Smart Clothing",
+        "Description": "Weave technology into fabric of daily life with smart clothing. Learn how nanotechnology is creating garments that can monitor health, change color, and even generate electricity.",
+        "Instructor": "Prof. Omar El-Sayed",
+        "Department": "Nanotechnology",
+        "Semester": 3
+    },
+    {
+        "Course ID": "NANO301",
+        "Title": "Nanotech in the Kitchen: The Culinary Revolution",
+        "Description": "Cook up a storm with nanotechnology. Explore futuristic kitchen gadgets and materials that change how we taste, cook, and preserve food.",
+        "Instructor": "Prof. Nia Davies",
+        "Department": "Nanotechnology",
+        "Semester": 1
+    },
+    {
+        "Course ID": "NANO302",
+        "Title": "From Fiction to Fabrication: Nanotech in Pop Culture",
+        "Description": "Examine how nanotechnology has been portrayed in science fiction and how today's researchers are turning these fantasies into reality.",
+        "Instructor": "Prof. Giovanni Bianchi",
+        "Department": "Nanotechnology",
+        "Semester": 2
+    },
+    {
+        "Course ID": "NANO401",
+        "Title": "The Quantum Leap: Nanotech Meets Quantum Mechanics",
+        "Description": "Delve into the intersection of nanotechnology and quantum mechanics. Understand how quantum effects at the nanoscale are unlocking new technologies and possibilities.",
+        "Instructor": "Prof. Nia Davies",
+        "Department": "Nanotechnology",
+        "Semester": 3
+    },
+    {
+        "Course ID": "NANO402",
+        "Title": "NanoArt: The Aesthetics of the Infinitely Small",
+        "Description": "Explore the intersection of art and science through NanoArt. Learn how to create stunning visualizations and sculptures that represent the beauty of the nanoworld.",
+        "Instructor": "Prof. Omar El-Sayed",
+        "Department": "Nanotechnology",
+        "Semester": 1
+    },
+    {
+        "Course ID": "QC101",
+        "Title": "Quantum Leaps: An Introduction to Quantum Computing",
+        "Description": "Jump into the rabbit hole of quantum computing. Explore the bizarre world of qubits, superposition, and entanglement where classical computing rules don't apply.",
+        "Instructor": "Prof. Giovanni Bianchi",
+        "Department": "Quantum Computing",
+        "Semester": 1
+    },
+    {
+        "Course ID": "QC102",
+        "Title": "Spooky Action at a Distance: Quantum Entanglement Unveiled",
+        "Description": "Delve into the spooky world of quantum entanglement. Learn how particles can be mysteriously connected, no matter the distance, and how this phenomenon powers quantum communication.",
+        "Instructor": "Prof. Lakshmi Desai",
+        "Department": "Quantum Computing",
+        "Semester": 2
+    },
+    {
+        "Course ID": "QC103",
+        "Title": "Quantum Cryptography: Codes That Not Even Quantum Computers Can Crack",
+        "Description": "Unlock the secrets of quantum-safe cryptography. Discover how to safeguard information in a post-quantum world, where traditional encryption methods no longer hold.",
+        "Instructor": "Prof. Martin Schultz",
+        "Department": "Quantum Computing",
+        "Semester": 3
+    },
+    {
+        "Course ID": "QC201",
+        "Title": "The Quantum Web: Building the Future of the Internet",
+        "Description": "Envision a new internet powered by quantum technology. Explore the potential of quantum networks that promise unparalleled security and speed.",
+        "Instructor": "Prof. Nia Davies",
+        "Department": "Quantum Computing",
+        "Semester": 1
+    },
+    {
+        "Course ID": "QC202",
+        "Title": "Quantum Simulation: Unveiling Nature\u00e2\u20ac\u2122s Mysteries",
+        "Description": "Dive into simulations that reveal the universe's deepest secrets. Learn how quantum computing can simulate complex systems, from molecules to entire galaxies.",
+        "Instructor": "Prof. Giovanni Bianchi",
+        "Department": "Quantum Computing",
+        "Semester": 2
+    },
+    {
+        "Course ID": "QC203",
+        "Title": "Programming the Quantum: Algorithms That Warp Reality",
+        "Description": "Bend reality with code. Master the art of quantum programming and learn algorithms that solve problems classical computers can only dream of.",
+        "Instructor": "Prof. Nia Davies",
+        "Department": "Quantum Computing",
+        "Semester": 3
+    },
+    {
+        "Course ID": "QC301",
+        "Title": "Quantum Machine Learning: AI on Quantum Steroids",
+        "Description": "Explore the fusion of quantum computing and artificial intelligence. Discover how quantum algorithms can supercharge machine learning, opening new frontiers in AI research.",
+        "Instructor": "Prof. Martin Schultz",
+        "Department": "Quantum Computing",
+        "Semester": 1
+    },
+    {
+        "Course ID": "QC302",
+        "Title": "The Multiverse and Quantum Computing: Computing Across Realities",
+        "Description": "Ponder the possibilities of computing across parallel universes. Explore the theoretical underpinnings of quantum computing that might one day unlock the multiverse.",
+        "Instructor": "Prof. Omar El-Sayed",
+        "Department": "Quantum Computing",
+        "Semester": 2
+    },
+    {
+        "Course ID": "QC401",
+        "Title": "Quantum Supremacy: The Race to Outcompute Classical Computers",
+        "Description": "Join the race to achieve quantum supremacy. Learn about the milestones in quantum computing that signal a new era of computational power.",
+        "Instructor": "Prof. Lakshmi Desai",
+        "Department": "Quantum Computing",
+        "Semester": 3
+    },
+    {
+        "Course ID": "QC402",
+        "Title": "Quantum Ethics: The Moral Dilemmas of Quantum Computing",
+        "Description": "Delve into the ethical considerations of quantum computing. From privacy concerns to computational fairness, discuss how quantum technology could impact society.",
+        "Instructor": "Prof. Omar El-Sayed",
+        "Department": "Quantum Computing",
+        "Semester": 1
+    }
+]
