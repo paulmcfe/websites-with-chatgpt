@@ -32,6 +32,6 @@ Second, in a separate file write the CSS code for the following:
  * Make the date of each entry dark blue with font size 18px.
  * For the headings and summary text, use the Lato font from Google Fonts. For the rest of the text, use the Merriweather font from Google Fonts.
  * The footer has 5px padding all around and a 10px top margin.
- * Make the the page responsive with a maximum width of 850px.
+ * Make the page responsive with a maximum width of 850px.
  * Style the accordions to make them look nicer, including a powderblue background color.
  ```

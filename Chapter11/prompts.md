@@ -53,7 +53,7 @@ Second, in a separate file write the CSS code for the following:
  * The main section has centered text and a 24px margin.
  * The main section heading has font size 30px and uses the Poppins font from Google Fonts.
  * Make the portfolio a Flexbox container. Enable the content to wrap and add a gap between items of 16px.
- * Give each card a minimum width of 200px and a maximum with of 350px.
+ * Give each card a minimum width of 200px and a maximum width of 350px.
  * For each card image, make sure there is no margin or padding around the image so that it extends all the way to the top, left, and right edges of the card.
  * Add 16px padding to the left and right of the card text.
  * Style the cards with a drop-shadow where both the x and y offset are 8px, the blur is 4px, and the transparency is 0.3.

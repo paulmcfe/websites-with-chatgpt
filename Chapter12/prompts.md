@@ -51,7 +51,7 @@ Second, in a separate file write the CSS code for the following:
  * The second-level heading is 36px and uses the Raleway font from Google Fonts.
  * The third-level headings are 24px and use the Raleway font from Google Fonts.
  * The article title and the aside title have a 10px top margin.
- * The aside has a 1px, solid, lightblue border;
+ * The aside has a 1px, solid, lightblue border.
  * The nav, article, aside, and footer elements have 10px padding.
  * The footer has a 1px, lightblue top border and a 10px top margin.
  * The page has a maximum width of 800px and is centered within the browser window.

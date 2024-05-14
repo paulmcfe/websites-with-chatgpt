@@ -150,7 +150,7 @@ Write the HTML code for a web page that includes the following:
  """
  * A footer element that includes the Copyright symbol, followed by the current year, followed by "Paul McFedries".
  * In the page head section, include the tag <meta charset="utf-8">.
- * In the page head section, include a reference to a stylesheeet file named "styles.css".
+ * In the page head section, include a reference to a stylesheet file named "styles.css".
  * In the page head section, include a reference to the Google fonts Lato and Raleway.
  * Do not add any inline styles.
 
