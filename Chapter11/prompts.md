@@ -56,7 +56,7 @@ Second, in a separate file write the CSS code for the following:
  * Give each card a minimum width of 200px and a maximum width of 350px.
  * For each card image, make sure there is no margin or padding around the image so that it extends all the way to the top, left, and right edges of the card.
  * Add 16px padding to the left and right of the card text.
- * Style the cards with a drop-shadow where both the x and y offset are 8px, the blur is 4px, and the transparency is 0.3.
+ * Style the cards with a drop-shadow where both the x and y offsets are 8px, the blur is 4px, and the transparency is 0.3.
  * Style the cards with a border radius of 20px.
  * The footer has background color coral, 16px padding, and centered text.
 
