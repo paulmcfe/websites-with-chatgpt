@@ -61,7 +61,7 @@ Time: [time]
 Location: [location]
 Questions to ponder: [questions]
 """
- * A footer element that includes the text "Copyright" (spelled out, do not include the Copyright symbol), followed by the current year, followed by "[page title]". In a separate paragraph, the footer also includes [number] links to social media accounts: one for Facebook (username: [username]), Instagram (username: [username]), and Twitter (username: [username]).
+ * A footer element that includes the text "Copyright" (spelled out, do not include the Copyright symbol), followed by the current year, followed by "[page title]". In a separate paragraph, the footer also includes [number] links to social media accounts: one for Facebook (username: [username]), Instagram (username: [username]), and X (username: [username]).
 
 Second, in a separate file write the CSS code for the following:
  * The header background color is [primary color] with [size]px padding all around. Float the logo to the left and right-align the title and tagline.
